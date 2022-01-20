@@ -1,0 +1,23 @@
+{
+  "name": "rabbitmq-testing",
+  "version": "1.0.0",
+  "description": "This is just a Testing Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhijeet-kadance/RabbitMQ-Testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhijeet-kadance/RabbitMQ-Testing/issues"
+  },
+  "homepage": "https://github.com/Abhijeet-kadance/RabbitMQ-Testing#readme",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  }
+}
